@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+}
+
+#container {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
